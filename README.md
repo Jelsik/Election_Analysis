@@ -1,8 +1,10 @@
 # 
 Election_Analysis
+
 Python Classwork: Calculating Results of a hypothetical Colorado election
 ##
 Project Overview
+
 1.calculate vote total
 2.get complete list of candidates who received votes
 3.calculate vote totals for candidates
@@ -11,11 +13,13 @@ Project Overview
 
 ##
 resources used
+
 -Data Source : election_results.csv
 -Python 3.7.6
 
 ##
 Summary
+
 The analysis of the election shows that
 The candidates were:
 Charles Capser Stockhame
