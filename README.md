@@ -26,7 +26,7 @@ Those votes were distributed out to these candidates:
 Which brings us to our winner:
 * Diana DeGette, with the beforementioned 272,892(73.8%) votes, has claimed victory.
 
-##Audit Summary
+## Audit Summary
 
 Based off of the above analysis, this script is effective at determining the victor in this election. However,
 with some modifications this script could be adjusted to work for any election. Rather than merely counting votes towards
